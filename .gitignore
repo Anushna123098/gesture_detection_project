@@ -1,7 +1,9 @@
-_pycache_/
-.venv/
-*.pkl
-*.csv
+venv/
+__pycache__/
 *.pyc
-.DS_Store
-.env
+*.pyo
+*.pyd
+*.pkl
+dataset/
+landmark_data/
+.vscode/
